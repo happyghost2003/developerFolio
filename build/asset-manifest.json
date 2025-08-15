@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a4134a7.css",
+    "main.js": "/static/js/main.d5ea5e2b.js",
+    "static/css/64.243687ca.chunk.css": "/static/css/64.243687ca.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.8dc4e024.chunk.css": "/static/css/769.8dc4e024.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Ảnh chụp Màn hình 2025-08-15 lúc 20.04.08.png": "/static/media/Ảnh chụp Màn hình 2025-08-15 lúc 20.04.08.3b6fc0825f6f66383b31.png",
+    "static/media/611D46F2-F35A-4109-AAC4-EE1790DAB30D.png": "/static/media/611D46F2-F35A-4109-AAC4-EE1790DAB30D.69c9c2dd37bf65a26aa9.png",
+    "static/media/harvardLogo.png": "/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/static/media/resume.4b09086ea3c0a9e351ab.pdf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/majima.jpg": "/static/media/majima.1f6b09b4c5278b1e1ed9.jpg",
+    "static/media/thug.jpeg": "/static/media/thug.ba4979e439e7bfd3817d.jpeg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.8a4134a7.css.map": "/static/css/main.8a4134a7.css.map",
+    "main.d5ea5e2b.js.map": "/static/js/main.d5ea5e2b.js.map",
+    "64.243687ca.chunk.css.map": "/static/css/64.243687ca.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.8dc4e024.chunk.css.map": "/static/css/769.8dc4e024.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a4134a7.css",
+    "static/js/main.d5ea5e2b.js"
+  ]
+}
