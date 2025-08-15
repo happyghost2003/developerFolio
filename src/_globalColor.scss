@@ -1,0 +1,92 @@
+/* Bảng màu Xanh Xám (Blue-Gray Theme) */
+
+// Màu chủ đạo
+$accentColor: #5D768A; // Màu Xanh Xám chính
+$accentColorHover: #4A5E6E; // Màu Xanh Xám đậm hơn khi hover
+
+// Màu nền (light theme)
+$lightBackground1: #F5F7FA; // Màu nền chính (xám rất nhạt, cool tone)
+$lightBackground2: #FFFFFF; // Màu nền phụ cho các thẻ (card)
+$lightBackground3: #F5F7FA; // Tương tự màu nền chính
+
+// Màu chữ (light theme)
+$titleColor: #2c3e50; // Màu tiêu đề (xám đậm-xanh)
+$textColor: #34495e; // Màu chữ thông thường (xám đậm)
+$subTitle: #7f8c8d; // Màu phụ đề (xám nhạt hơn)
+$cardSubtitle: #7f8c8d;
+$talkCardSubTitle: #7f8c8d;
+$blogCardTitleColor: #2c3e50;
+
+// Màu nút
+$buttonColor: $accentColor;
+$buttonHover: $accentColorHover;
+$topButtonHover: #000;
+
+// Màu chữ (dark theme) - Giữ nguyên để không lỗi nếu chuyển theme
+$textColorDark: #ffffff;
+
+// Toggle switch
+$toggleCheck: $accentColor;
+$toggleSwitchSliderBG: #ccc;
+
+// Màu cho thẻ Github
+$githubRepoCardLanguageColorBG: $accentColor;
+$githubRepoCardColor: #FFFFFF;
+$githubRepoCardRepoCardStatsColor: #7f8c8d;
+$githubRepoCardRepoNameColor: #2c3e50;
+$githubProfileCardBorder: $accentColor;
+$githubProfileCardLocationTS: #8696a7;
+
+// Màu nền (dark theme) - Thay đổi cho đồng bộ
+$darkBackground: #2c3e50;
+
+// Box shadows (hiệu ứng đổ bóng)
+$lightBoxShadowDark: rgba(0, 0, 0, 0.15);
+$lightBoxShadow: rgba(0, 0, 0, 0.08);
+$lightBoxShadowDarker: rgba(0, 0, 0, 0.2);
+
+$darkBoxShadow: #d9dbdf;
+$darkBoxShadow2: #ffffff;
+
+// Linear gradients (dải màu chuyển sắc)
+$experienceCardBlurredDivLG: linear-gradient(
+  rgba(0, 0, 0, 0.4),
+  rgba(0, 0, 0, 0.2)
+);
+$experienceCardBannerLG: linear-gradient(
+  rgba(0, 0, 0, 0.7),
+  rgba(0, 0, 0, 0.5)
+);
+
+// Borders (viền)
+$progressBarBackground: #EAECEE;
+$lightBorder1: #D0D9E0;
+$educationCardBorder: $accentColor;
+
+// Hovers
+$achievementCertificateCardHoverDark: rgba(255, 255, 255, 0.2);
+$blogCardHoverSmallColor: rgba(255, 255, 255, 0.8);
+$headerHoverBG: #EAECEE;
+$contactDetailHoverTS: #b5b5b5;
+
+// Các màu nền khác
+$progressBarSpanBG: $accentColor;
+$iconBackground: #333; // for dark mode
+$appHeaderBG: #2c3e50; // for dark mode
+
+// Các màu linh tinh khác
+$skillsColor: $accentColor;
+$appLink: $accentColor;
+$blogCardContainerColor: #586069; // Giữ nguyên cho thẻ blog
+
+// Social media icons - Giữ màu gốc của thương hiệu
+$faceBook: #3b5998;
+$linkedin: #0e76a8;
+$github: #333;
+$gitlab: #fca326;
+$google: #ea4335;
+$twitter: #1da1f2;
+$medium: #000;
+$stackoverflow: #f48024;
+$instagram: #c13584;
+$kaggle: #20beff;
