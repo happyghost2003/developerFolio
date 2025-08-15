@@ -21,8 +21,7 @@ const greeting = {
   subTitle: emoji(
     "Một sinh viên năm 4 đam mê game với kinh nghiệm về AI tạo sinh (Gen AI) và các Mô hình Ngôn ngữ Lớn (LLMs) . Mình đam mê ứng dụng AI để xây dựng những hệ thống thông minh và trải nghiệm đột phá cho người chơi."
   ),
-  resumeLink:
-    "link-toi-CV-cua-ban.pdf",
+  resumeLink: "link-toi-CV-cua-ban.pdf",
   displayGreeting: true
 };
 
@@ -37,7 +36,8 @@ const socialMediaLinks = {
 // Phần Kỹ năng
 const skillsSection = {
   title: "Thế mạnh của mình",
-  subTitle: "KẾT HỢP TƯ DUY THIẾT KẾ SÁNG TẠO VỚI KỸ NĂNG CHUYÊN SÂU VỀ TRÍ TUỆ NHÂN TẠO",
+  subTitle:
+    "KẾT HỢP TƯ DUY THIẾT KẾ SÁNG TẠO VỚI KỸ NĂNG CHUYÊN SÂU VỀ TRÍ TUỆ NHÂN TẠO",
   skills: [
     emoji(
       "⚡ Thiết kế và phát triển game 2D bằng Unity, tập trung vào cơ chế gameplay và trải nghiệm người dùng."
@@ -65,7 +65,7 @@ const skillsSection = {
     },
     {
       skillName: "AI / LLMs",
-      fontAwesomeClassname: "fas fa-robot" // Tạm thời đổi sang icon này để test 
+      fontAwesomeClassname: "fas fa-robot" // Tạm thời đổi sang icon này để test
     },
     {
       skillName: "C#",
@@ -97,9 +97,7 @@ const educationInfo = {
       subHeader: "Chuyên ngành của bạn",
       duration: "Năm bắt đầu - Năm kết thúc",
       desc: "Các môn học hoặc đồ án liên quan đến Game, AI...",
-      descBullets: [
-        "Hoàn thành đồ án game 2D 'getting to iuh' bằng Unity."
-      ]
+      descBullets: ["Hoàn thành đồ án game 2D 'getting to iuh' bằng Unity."]
     }
   ]
 };
@@ -177,15 +175,15 @@ const bigProjects = {
     {
       image: require("/Users/thang/Documents/Projects/developerFolio/src/assets/images/611D46F2-F35A-4109-AAC4-EE1790DAB30D.png"),
       projectName: "Getting to IUH (Game 2D)",
-      projectDesc: "Một trò chơi 2D phát triển bằng Unity, mô phỏng lại hành trình đầy thử thách của sinh viên để đến được trường IUH.",
+      projectDesc:
+        "Một trò chơi 2D phát triển bằng Unity, mô phỏng lại hành trình đầy thử thách của sinh viên để đến được trường IUH."
       // BẠN HÃY MÔ TẢ CHI TIẾT HƠN VỀ GAME Ở ĐÂY
-      
     },
     {
       image: require("/Users/thang/Documents/Projects/developerFolio/src/assets/images/Ảnh chụp Màn hình 2025-08-15 lúc 20.04.08.png"),
       projectName: "Web Projects Collection",
-      projectDesc: "Một số dự án web để rèn luyện kỹ năng lập trình, bao gồm trang bán hàng (quần áo, xe máy) và trang dự báo thời tiết.",
-      
+      projectDesc:
+        "Một số dự án web để rèn luyện kỹ năng lập trình, bao gồm trang bán hàng (quần áo, xe máy) và trang dự báo thời tiết."
     }
   ],
   display: true
@@ -234,7 +232,7 @@ const resumeSection = {
 
 const contactInfo = {
   title: emoji("Liên hệ với mình ☎️"),
-  
+
   number: "0585734855",
   email_address: "huuthanglovely@gmail.com"
 };

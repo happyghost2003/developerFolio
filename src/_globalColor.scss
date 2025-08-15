@@ -1,13 +1,13 @@
 /* Bảng màu Xanh Xám (Blue-Gray Theme) */
 
 // Màu chủ đạo
-$accentColor: #5D768A; // Màu Xanh Xám chính
-$accentColorHover: #4A5E6E; // Màu Xanh Xám đậm hơn khi hover
+$accentColor: #5d768a; // Màu Xanh Xám chính
+$accentColorHover: #4a5e6e; // Màu Xanh Xám đậm hơn khi hover
 
 // Màu nền (light theme)
-$lightBackground1: #F5F7FA; // Màu nền chính (xám rất nhạt, cool tone)
-$lightBackground2: #FFFFFF; // Màu nền phụ cho các thẻ (card)
-$lightBackground3: #F5F7FA; // Tương tự màu nền chính
+$lightBackground1: #f5f7fa; // Màu nền chính (xám rất nhạt, cool tone)
+$lightBackground2: #ffffff; // Màu nền phụ cho các thẻ (card)
+$lightBackground3: #f5f7fa; // Tương tự màu nền chính
 
 // Màu chữ (light theme)
 $titleColor: #2c3e50; // Màu tiêu đề (xám đậm-xanh)
@@ -31,7 +31,7 @@ $toggleSwitchSliderBG: #ccc;
 
 // Màu cho thẻ Github
 $githubRepoCardLanguageColorBG: $accentColor;
-$githubRepoCardColor: #FFFFFF;
+$githubRepoCardColor: #ffffff;
 $githubRepoCardRepoCardStatsColor: #7f8c8d;
 $githubRepoCardRepoNameColor: #2c3e50;
 $githubProfileCardBorder: $accentColor;
@@ -59,14 +59,14 @@ $experienceCardBannerLG: linear-gradient(
 );
 
 // Borders (viền)
-$progressBarBackground: #EAECEE;
-$lightBorder1: #D0D9E0;
+$progressBarBackground: #eaecee;
+$lightBorder1: #d0d9e0;
 $educationCardBorder: $accentColor;
 
 // Hovers
 $achievementCertificateCardHoverDark: rgba(255, 255, 255, 0.2);
 $blogCardHoverSmallColor: rgba(255, 255, 255, 0.8);
-$headerHoverBG: #EAECEE;
+$headerHoverBG: #eaecee;
 $contactDetailHoverTS: #b5b5b5;
 
 // Các màu nền khác

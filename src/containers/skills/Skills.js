@@ -50,9 +50,7 @@ export default function Skills() {
                   <p
                     key={i}
                     className={
-                      isDark
-                        ? "dark-mode skills-text"
-                        : "subTitle skills-text"
+                      isDark ? "dark-mode skills-text" : "subTitle skills-text"
                     }
                   >
                     {skills}

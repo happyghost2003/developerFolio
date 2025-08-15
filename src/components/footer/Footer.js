@@ -8,11 +8,11 @@ export default function Footer() {
   const {isDark} = useContext(StyleContext);
   return (
     <Fade bottom duration={1000} distance="5px">
-     <div className="footer-div">
-    <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-      © 2025 | Designed & Coded by Thắng Nguyễn
-    </p>
-</div>
+      <div className="footer-div">
+        <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
+          © 2025 | Designed & Coded by Thắng Nguyễn
+        </p>
+      </div>
     </Fade>
   );
 }
